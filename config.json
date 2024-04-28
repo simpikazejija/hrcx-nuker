@@ -1,0 +1,22 @@
+{
+    "token": "bot_token",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "Hate runs cord",
+            "Vector on top",
+            "fucked by vector",
+            "Hrcx on top"
+        ],
+        "roles_name": [
+            "wizzed by hate",
+            "HRCX NUKER ON TOP",
+            "VECTOR RUNS YOU"
+        ],
+        "messages_content": [
+            "@everyone @here HRCX NUKER ON TOP MADE BY SIMPIKAZE ",
+            "@everyone @here HATE ON TOP ",
+            "@everyone @here HATE VECTOR X HRCX SIMPIKAZE ON TOP "
+        ]
+    }
+}
